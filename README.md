@@ -26,5 +26,5 @@ Návod na odevzdávání úkolů najdete [zde](./ODEVZDAVANI-UKOLU.md).
 | 9  | 23.05.2023 | Zpracování dat v modulu Pandas: Základní dotazy, spojení dat | https://kodim.cz/kurzy/python-data-1/python-pro-data-1/podmineny-vyber/podmineny-vyber ,https://kodim.cz/kurzy/python-data-1/python-pro-data-1/agregace-a-spojovani/pokrocile-upravy | [ukol-09](./ukoly/ukol-09.md)
 | 10 | 30.05.2023 | Zpracování dat v modulu Pandas: Agregace, Vizualizace | https://kodim.cz/kurzy/python-data-1/python-pro-data-1/agregace-a-spojovani/agregace , https://kodim.cz/kurzy/python-data-1/python-pro-data-1/agregace-a-spojovani/ruzne , https://kodim.cz/kurzy/python-data-1/python-pro-data-1/vizualizace/vizualizace | [ukol-10](./ukoly/ukol-10.md)
 | 11 | 06.06.2023 | Vizualizace - dokončení, Webscraping | https://kodim.cz/kurzy/python-data-1/ziskavani-dat/webscraping | [ukol-11](./ukoly/ukol-11.md)
-| 12 | 13.06.2023 | Zpracování dat v modulu Pandas: `apply`,  delší společná úloha (webscraping + Pandas) |  |  
+| 12 | 13.06.2023 | Zpracování dat v modulu Pandas: `apply`,  delší společná úloha (webscraping + Pandas) | https://github.com/lutydlitatova/python-jaro-2023/blob/main/notebook/8-pandas-apply.ipynb, https://github.com/lutydlitatova/python-jaro-2023/blob/main/notebook/8-pandas-apply-navstevnost.ipynb |  
 
